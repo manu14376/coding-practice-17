@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.history-title {
+  color: #7e858e;
+  font-size: 14px;
+  font-weight: bold;
+  font-family: roboto;
+  margin-right: 50px;
+}
+.delete-btn {
+  background-color: transparent;
+  border: 0px;
+}
+.transaction-item {
+  list-style: none;
+  display: flex;
+}
+.delete-img {
+  height: 20px;
+}

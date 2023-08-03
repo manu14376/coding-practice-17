@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.list-item {
+  list-style: none;
+  height: 100px;
+  width: 180px;
+  margin: 10px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border-radius: 10px;
+  padding: 10px;
+}
+.background-color-bal {
+  background-color: #ecfccb;
+}
+.background-color-inc {
+  background-color: #cffafe;
+}
+.background-color-exp {
+  background-color: #ede9fe;
+}
+.financial-image {
+  height: 50px;
+}
+.financial-heading {
+  color: #cbd5e1;
+  font-size: 12px;
+  font-family: roboto;
+}
+.financial-description {
+  color: #1e293b;
+  font-size: 20px;
+}
