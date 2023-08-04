@@ -107,7 +107,6 @@ class MoneyManager extends Component {
           </p>
         </div>
         <div className="financials">
-          <ul className="unorderedList">
             <MoneyDetails
               key="Balance"
               Title="Your Balance"
@@ -135,7 +134,6 @@ class MoneyManager extends Component {
               classname="background-color-exp"
               dataTest="expensesAmount"
             />
-          </ul>
         </div>
         <div className="transactions-container">
           <div className="add-transaction">
